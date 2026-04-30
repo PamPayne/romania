@@ -1,17 +1,7 @@
-# Romania Regulatory Documents
+# Romania Gambling Regulations
 
-Markdown versions of regulatory documents for Romania, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
+Markdown versions of gambling regulations and regulatory guidelines for Romania, converted for easy reference and version tracking.
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [High Level Analysis For Romania Betway 2.0](High_Level_Analysis_for_Romania_Betway__2.0_.md) | High Level Analysis for Romania_Betway (2.0).pdf |
-| [High Level Analysis For Romania Betway 2.0](High_Level_Analysis_for_Romania_Betway__2.0_.md) | High Level Analysis for Romania_Betway (2.0).docx |
-
-## Source
-
-Documents sourced from the [DBNSA SharePoint Regulatory Repository](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Romania).
-
----
-*Last updated: 2026-04-30 — maintained by the DBNSA Compliance team.*
+*Document index will be updated once files are processed.*
