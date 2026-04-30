@@ -4,10 +4,7 @@ Markdown versions of regulatory documents for Romania, sourced from the DBNSA Re
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [High Level Analysis For Romania Betway 2.0](High_Level_Analysis_for_Romania_Betway__2.0_.md) | High Level Analysis for Romania_Betway (2.0).pdf |
-| [High Level Analysis For Romania Betway 2.0](High_Level_Analysis_for_Romania_Betway__2.0_.md) | High Level Analysis for Romania_Betway (2.0).docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
